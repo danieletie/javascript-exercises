@@ -10,7 +10,7 @@ const repeatString = function(string, number) {
     }
     return (result)
 }
-repeatString('hey', -1)
+repeatString('', 10)
 
 // Do not edit below this line
 module.exports = repeatString;
